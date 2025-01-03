@@ -1,6 +1,6 @@
 /* gpixel.c - 'great' pixel manipulation */
 /* Copyright (c) 2024 Ian P. Jarvis */
-/* Licensed under LGPL 3 */
+/* Licensed under LGPL 2.1 */
 
 #include "gpixel.h"
 
